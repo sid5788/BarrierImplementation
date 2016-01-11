@@ -1,0 +1,18 @@
+/***************************************************
+* Single Author Info
+* ssingh24 Siddharth Singh
+***************************************************/
+
+IMPORTANT NOTE:
+--------------
+To run your own test file, in the Makefile edit TEST_FILE and replace test.c with your file name.
+
+Commands:
+--------
+
+1. Execute "make clean"  
+
+2. Execute "make" command. It creates test executable.
+
+3. Run test binary using "./test" command
+
